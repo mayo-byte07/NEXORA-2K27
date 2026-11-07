@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.npm-cache/
+.uv-cache/
+.uv-python/
+proposal_render/
